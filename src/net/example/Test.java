@@ -19,7 +19,7 @@ public class Test {
 //			}
 //		}).start();
 //		System.out.println("end");
-		
+		System.out.println("fuck you");
 		ArrayList<Double> stack = new ArrayList<>();
 		int max = 20;
 		Thread t1 = new Thread(new Producer(max, stack));
